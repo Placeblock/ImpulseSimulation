@@ -1,4 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+@font-face {
+    font-family: Montserrat;
+    src: url("./assets/Montserrat-SemiBold.ttf");
+    font-weight: 600;
+}
+@font-face {
+    font-family: Montserrat;
+    src: url("./assets/Montserrat-Light.ttf");
+    font-weight: 300;
+}
+
 
 * {
     margin: 0px;
